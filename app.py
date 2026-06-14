@@ -371,3 +371,4 @@ elif page == "Prediction":
                 st.success(
                     f"Low Risk ({1-probability:.1%})"
                 )
+Update app.py
